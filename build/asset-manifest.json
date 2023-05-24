@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e9e9d108.css",
-    "main.js": "/static/js/main.523b2bf0.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/hanguel.png": "/static/media/hanguel.5da7c86d7860f073a138.png",
-    "static/media/whaleon.png": "/static/media/whaleon.54d530ac14f2b82b1a64.png",
-    "static/media/netflix.png": "/static/media/netflix.d08bc5b9a98586c864d6.png",
-    "static/media/gratitude.png": "/static/media/gratitude.5c3d70eddddf69b7b4d8.png",
-    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
-    "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.fa428cdd2e334e2be904.ttf",
-    "static/media/OpenSans-Light.ttf": "/static/media/OpenSans-Light.55d5015c3ced03510e63.ttf",
-    "static/media/profile.jpg": "/static/media/profile.e819bc17cda460233333.jpg",
-    "index.html": "/index.html",
-    "main.e9e9d108.css.map": "/static/css/main.e9e9d108.css.map",
-    "main.523b2bf0.js.map": "/static/js/main.523b2bf0.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio_2023/static/css/main.31f29bb0.css",
+    "main.js": "/portfolio_2023/static/js/main.d309b574.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio_2023/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hanguel.png": "/portfolio_2023/static/media/hanguel.5da7c86d7860f073a138.png",
+    "static/media/whaleon.png": "/portfolio_2023/static/media/whaleon.54d530ac14f2b82b1a64.png",
+    "static/media/netflix.png": "/portfolio_2023/static/media/netflix.d08bc5b9a98586c864d6.png",
+    "static/media/gratitude.png": "/portfolio_2023/static/media/gratitude.5c3d70eddddf69b7b4d8.png",
+    "static/media/OpenSans-Regular.ttf": "/portfolio_2023/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
+    "static/media/OpenSans-Bold.ttf": "/portfolio_2023/static/media/OpenSans-Bold.fa428cdd2e334e2be904.ttf",
+    "static/media/OpenSans-Light.ttf": "/portfolio_2023/static/media/OpenSans-Light.55d5015c3ced03510e63.ttf",
+    "static/media/profile.jpg": "/portfolio_2023/static/media/profile.e819bc17cda460233333.jpg",
+    "index.html": "/portfolio_2023/index.html",
+    "main.31f29bb0.css.map": "/portfolio_2023/static/css/main.31f29bb0.css.map",
+    "main.d309b574.js.map": "/portfolio_2023/static/js/main.d309b574.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio_2023/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9e9d108.css",
-    "static/js/main.523b2bf0.js"
+    "static/css/main.31f29bb0.css",
+    "static/js/main.d309b574.js"
   ]
 }
