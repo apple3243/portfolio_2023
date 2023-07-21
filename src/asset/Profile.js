@@ -1,3 +1,4 @@
+import React from 'react';
 import profilePhoto from './img/profile.jpg'
 
 function Profile(){
