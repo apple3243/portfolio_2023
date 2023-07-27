@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio_2023/static/css/main.324f0889.css",
-    "main.js": "/portfolio_2023/static/js/main.638f99e6.js",
+    "main.css": "/portfolio_2023/static/css/main.4cc57a9d.css",
+    "main.js": "/portfolio_2023/static/js/main.b7f4cfea.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio_2023/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ourhome.png": "/portfolio_2023/static/media/ourhome.f5201e34326c51325757.png",
     "static/media/hanguel.png": "/portfolio_2023/static/media/hanguel.5da7c86d7860f073a138.png",
     "static/media/whaleon.png": "/portfolio_2023/static/media/whaleon.54d530ac14f2b82b1a64.png",
     "static/media/netflix.png": "/portfolio_2023/static/media/netflix.d08bc5b9a98586c864d6.png",
@@ -12,12 +13,12 @@
     "static/media/OpenSans-Light.ttf": "/portfolio_2023/static/media/OpenSans-Light.55d5015c3ced03510e63.ttf",
     "static/media/profile.jpg": "/portfolio_2023/static/media/profile.e819bc17cda460233333.jpg",
     "index.html": "/portfolio_2023/index.html",
-    "main.324f0889.css.map": "/portfolio_2023/static/css/main.324f0889.css.map",
-    "main.638f99e6.js.map": "/portfolio_2023/static/js/main.638f99e6.js.map",
+    "main.4cc57a9d.css.map": "/portfolio_2023/static/css/main.4cc57a9d.css.map",
+    "main.b7f4cfea.js.map": "/portfolio_2023/static/js/main.b7f4cfea.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio_2023/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.324f0889.css",
-    "static/js/main.638f99e6.js"
+    "static/css/main.4cc57a9d.css",
+    "static/js/main.b7f4cfea.js"
   ]
 }
