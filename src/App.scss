@@ -1,10 +1,6 @@
 @import-normalize; /* bring in normalize.css styles */
 @import url(./style/font.scss);
 
-html{
-    scroll-behavior: smooth;
-}
-
 .vh{
     overflow: hidden;
     position: absolute;
@@ -113,7 +109,6 @@ body{
 // portfolio
 .portfolio{
     background-color: #fff;
-    height: 100vh;
     padding: 5%;
     box-sizing: border-box;
     .title{
@@ -125,14 +120,13 @@ body{
         display: flex;
         flex-wrap: wrap;
         margin-bottom: 40px;
+        row-gap: 1rem;
+        column-gap: 1rem;
         li{
             height: 250px;
-            flex: 1 1 auto;
+            flex: 1 1 25%;
             list-style-type: none;
             background-color: #f0f0f0;
-            ~li{
-                margin-left : 10px;
-            }
             a{
                 position: relative;
                 display: block;
@@ -172,6 +166,9 @@ body{
             }
             &.gratitude{
                 background: #000 url(./asset/img/gratitude.png) center/contain no-repeat;
+            }
+            &.ourhome{
+                background: #000 url(./asset/img/ourhome.png) center/contain no-repeat;
             }
         }
     }
