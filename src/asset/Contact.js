@@ -11,9 +11,11 @@ function Contact(){
         console.log(form.current)
         emailjs.sendForm('service_14i7kjj', 'template_2q504pw', form.current, '-Jzs-A9jcAD-jh_ql')
         .then((result) => {
-            console.log(result.text);
+            // console.log(result.text);
+            alert("Email Sent")
         }, (error) => {
-            console.log(error.text);
+            // console.log(error.text);
+            alert(error)
         });
     };
 
