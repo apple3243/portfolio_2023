@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio_2023/static/css/main.3f6b62ef.css",
-    "main.js": "/portfolio_2023/static/js/main.9b967fe9.js",
+    "main.js": "/portfolio_2023/static/js/main.efdc18ac.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio_2023/static/js/787.1ed0c42c.chunk.js",
     "static/media/ourhome.png": "/portfolio_2023/static/media/ourhome.f5201e34326c51325757.png",
     "static/media/hanguel.png": "/portfolio_2023/static/media/hanguel.5da7c86d7860f073a138.png",
@@ -11,15 +11,15 @@
     "static/media/OpenSans-Regular.ttf": "/portfolio_2023/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
     "static/media/OpenSans-Bold.ttf": "/portfolio_2023/static/media/OpenSans-Bold.fa428cdd2e334e2be904.ttf",
     "static/media/OpenSans-Light.ttf": "/portfolio_2023/static/media/OpenSans-Light.55d5015c3ced03510e63.ttf",
-    "static/media/resume.pdf": "/portfolio_2023/static/media/resume.5509d332830f88da3e4c.pdf",
+    "static/media/resume.pdf": "/portfolio_2023/static/media/resume.d37eb8ff32b3bda705d1.pdf",
     "static/media/profile.jpg": "/portfolio_2023/static/media/profile.e819bc17cda460233333.jpg",
     "index.html": "/portfolio_2023/index.html",
     "main.3f6b62ef.css.map": "/portfolio_2023/static/css/main.3f6b62ef.css.map",
-    "main.9b967fe9.js.map": "/portfolio_2023/static/js/main.9b967fe9.js.map",
+    "main.efdc18ac.js.map": "/portfolio_2023/static/js/main.efdc18ac.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio_2023/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f6b62ef.css",
-    "static/js/main.9b967fe9.js"
+    "static/js/main.efdc18ac.js"
   ]
 }
