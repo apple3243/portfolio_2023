@@ -9,14 +9,14 @@ on:
 
 jobs:
   build:
-    runs-on: node-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Deploy GitHub Pages site
         uses: actions/deploy-pages@v4.0.4
-      - name : build 
-        run : npm run build
-      - name : deploy
-        run : npm run deploy
+      - name: build 
+        run: npm run build
+      - name: deploy
+        run: npm run deploy
       
         
             
