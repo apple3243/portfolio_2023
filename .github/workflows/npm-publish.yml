@@ -18,10 +18,10 @@ jobs:
       - name : Build
         run : 
           npm install latest
-          npx update-browserslist-db@latest
           npm run build
       - name : Publish
         run : 
+          npx update-browserslist-db@latest
           npm run deploy
         env : 
           NODE_AUTH_TOKEN : ${{secrets.NPM_TOKEN}}
