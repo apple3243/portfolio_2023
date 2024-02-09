@@ -12,7 +12,5 @@ jobs:
     runs-on: node-latest
     steps:
       - run: npm run build
-      - name: Build
       - run: npm run deploy
-      - name: Deploy
       
