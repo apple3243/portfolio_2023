@@ -22,7 +22,7 @@ jobs:
       - name : Publish
         run : 
           npx update-browserslist-db@latest
-          npm run deploy
+          gh-pages -d buil
         env : 
           NODE_AUTH_TOKEN : ${{secrets.NPM_TOKEN}}
         
